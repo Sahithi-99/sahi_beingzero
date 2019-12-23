@@ -1,30 +1,22 @@
 {
-  "name": "sahi_beingzero",
- 
+ "name": "sahi_beingzero",
  "version": "1.0.0",
-  
-"description": "",
- 
+ "description": "",
  "main": "index.js",
- 
  "scripts": {
-    
-"test":"standard"
-  },
- 
+  "test": "standard"
+ },
  "repository": {
-    "type": "git",
-   
- "url": "git+https://github.com/Sahithi-99/sahi_beingzero.git"
-  },
- 
+  "type": "git",
+  "url": "git+https://github.com/Sahithi-99/sahi_beingzero.git"
+ },
  "author": "",
- 
  "license": "ISC",
-  
-"bugs": {
-    "url": "https://github.com/Sahithi-99/sahi_beingzero/issues"
-  },
-  
-"homepage": "https://github.com/Sahithi-99/sahi_beingzero#readme"
+ "bugs": {
+  "url": "https://github.com/Sahithi-99/sahi_beingzero/issues"
+ },
+ "homepage": "https://github.com/Sahithi-99/sahi_beingzero#readme",
+ "dependencies": {
+  "express": "^4.17.1"
+ }
 }
